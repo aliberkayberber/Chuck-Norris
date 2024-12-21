@@ -10,9 +10,8 @@ This project is a simple frontend application that displays random Chuck Norris 
 
 ## Live Website
 
-    ```bash
-    https://aliberkayberber.github.io/Chuck-Norris/
-    ```
+https://aliberkayberber.github.io/Chuck-Norris/
+
 
 ## Installation
 
